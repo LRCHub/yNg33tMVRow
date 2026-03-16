@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Yes? No?",
+  "base_artist": "嵐",
+  "createdAt": "2026-03-16T03:57:20.143856Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "yes & no",
+      "artist": "XYLØ",
+      "has_synced": true,
+      "path": "select/01_yes_&_no_XYLØ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Yes, No, Maybe",
+      "artist": "Detroit Swindle feat. Tom Misch",
+      "has_synced": true,
+      "path": "select/02_Yes,_No,_Maybe_Detroit_Swindle_feat._Tom_Misch.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Yes, No, Maybe",
+      "artist": "Detroit Swindle",
+      "has_synced": true,
+      "path": "select/03_Yes,_No,_Maybe_Detroit_Swindle.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "YES/NO/GOODBYE!",
+      "artist": "Hot Club De Paris",
+      "has_synced": true,
+      "path": "select/04_YES_NO_GOODBYE!_Hot_Club_De_Paris.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Yes\u0000No\u0000Goodbye!",
+      "artist": "Hot Club De Paris",
+      "has_synced": true,
+      "path": "select/05_Yes\u0000No\u0000Goodbye!_Hot_Club_De_Paris.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Yes & No",
+      "artist": "Venus Hum",
+      "has_synced": true,
+      "path": "select/06_Yes_&_No_Venus_Hum.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Yes & No (Album Version)",
+      "artist": "Venus Hum",
+      "has_synced": true,
+      "path": "select/07_Yes_&_No_(Album_Version)_Venus_Hum.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Yes No Maybe",
+      "artist": "Suzy",
+      "has_synced": true,
+      "path": "select/08_Yes_No_Maybe_Suzy.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Yes No Maybe",
+      "artist": "수지 Suzy",
+      "has_synced": true,
+      "path": "select/09_Yes_No_Maybe_수지_Suzy.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Yes-No",
+      "artist": "竹達彩奈",
+      "has_synced": true,
+      "path": "select/10_Yes-No_竹達彩奈.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Yes No Yes",
+      "artist": "After School",
+      "has_synced": true,
+      "path": "select/11_Yes_No_Yes_After_School.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "YES NO",
+      "artist": "sakanaction",
+      "has_synced": false,
+      "path": "select/12_YES_NO_sakanaction.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "YES NO",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/13_YES_NO_サカナクション.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Yes, No, Maybe",
+      "artist": "Trey Songz",
+      "has_synced": true,
+      "path": "select/14_Yes,_No,_Maybe_Trey_Songz.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Yes, No, Maybe",
+      "artist": "Trey Songz",
+      "has_synced": true,
+      "path": "select/15_Yes,_No,_Maybe_Trey_Songz.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Yes? No?",
+      "artist": "嵐",
+      "has_synced": false,
+      "path": "select/pl_01_Yes__No_嵐.txt"
+    }
+  ]
+}
